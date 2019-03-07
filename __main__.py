@@ -57,16 +57,14 @@ def find_outer_bounds(square):
             minY = square[edge][1]
     return [maxX, maxY, minX, minY]
 
-
-
 if __name__ == '__main__':
     from glob import glob
     # for fn in glob('../data/pic*.png'):
-    for fn in glob('C:/Users/joel/PycharmProjects/image_cropper/testImg/*.png'):
+    for fn in glob('C:/Users/joel/PycharmProjects/image_cropper/image_cropper/testImg/*.png'):
         img = cv.imread(fn)
         # img2 = img
         squares = find_squares(img)
-
+        
         for square in  squares:
             edges = find_outer_bounds(square)
             img2 = img[edges[3]:edges[1], edges[2]:edges[0]]
