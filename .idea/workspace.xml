@@ -2,8 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812d75c3-052d-4fda-aef3-32088b968ad2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/0-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/1-hexagone5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/10-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/11-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/12-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/13-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/14-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/15-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/16-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/17-hexagone5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/18-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/19-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/2-hexagone5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/20-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/21-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/22-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/23-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/24-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/25-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/26-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/27-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/28-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/29-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/3-hexagone5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/30-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/31-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/4-hexagone5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/5-hexagone5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/5Hexagones.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/6-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/7-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/8-hexagone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testImg/9-hexagone5.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +44,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/image_cropper$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1551981590835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/image_cropper$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1551996307106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state relative-caret-position="-782">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -145,12 +177,12 @@
       <updated>1551368546912</updated>
       <workItem from="1551368568468" duration="5345000" />
       <workItem from="1551471038447" duration="1129000" />
-      <workItem from="1551472204891" duration="10463000" />
+      <workItem from="1551472204891" duration="17710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16937000" />
+    <option name="totallyTimeSpent" value="24184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="-782">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
